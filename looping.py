@@ -1,8 +1,11 @@
+#LOOPING
+
 angka = [1,2,3,4,5,6]
 for x in angka :
     print(x)
 
 '''jika hanya ingin mengakses hanya indeks pertama [0] maka gunakan break indeks kedua [1]'''
+
 minuman = ['Aqua', 'Le Mineral', 'Vit']
 for y in minuman :
     if y == 'Le Mineral':
