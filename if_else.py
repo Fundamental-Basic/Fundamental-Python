@@ -75,7 +75,8 @@ if s > r:
 
 #CONTOH SOAL
 
-nilai = 98
+nilai = input('masukan nilai anda :')
+nilai = int (nilai)
 
 if nilai >= 60 and nilai <= 100:
     print('lulus')
