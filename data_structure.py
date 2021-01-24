@@ -35,7 +35,7 @@ new_fruit = ['lychee', 'watermelon']
 new = fruit + new_fruit
 print('NEW',new)
 
-#EPERASI PERKALIAN,UNTUK MENGULANG SEBANYAK n (*)
+#OPERASI PERKALIAN,UNTUK MENGULANG SEBANYAK n (*)
 
 
 #LIST MULTIDIMENSI, UNTUK DATA YANG KOMPLEKS
